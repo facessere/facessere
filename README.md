@@ -23,7 +23,7 @@
 * Опыт программирования на C++
 * Базовые знания Python
 * Построение простых  ETL подсистем (Pentaho Data Integration + DBeaver) 
-* Построение архитектурного решения (draw io)
+* [Построение архитектурного решения](https://github.com/facessere/Architecture)
 ***
 ### Контакты
 * [Почта](annushkanikolaeva00@gmail.com)
