@@ -22,7 +22,7 @@
   * Оконные функции
 * Опыт программирования на C++
 * Базовые знания Python
-* Построение простых  ETL подсистем (Pentaho Data Integration + DBeaver) 
+* [Построение простых  ETL подсистем (Pentaho Data Integration + DBeaver)](https://github.com/facessere/ETL) 
 * [Построение архитектурного решения](https://github.com/facessere/Architecture)
 ***
 ### Контакты
