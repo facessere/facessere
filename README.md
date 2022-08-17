@@ -20,7 +20,7 @@
   * Математические функции
   * Рекурсивные подзапросы
   * Оконные функции
-* [Опыт программирования на C++](https://github.com/facessere/-/tree/main/sobes)
+* [Опыт программирования на C++](https://github.com/facessere/-)
 * [Базовые знания Python](https://github.com/facessere/Py/blob/main/README.md)
 * [Построение простых  ETL подсистем (Pentaho Data Integration + DBeaver)](https://github.com/facessere/ETL) 
 * [Построение архитектурного решения](https://github.com/facessere/Architecture)
