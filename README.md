@@ -26,5 +26,5 @@
 * [Построение архитектурного решения](https://github.com/facessere/Architecture)
 ***
 ### Контакты
-* [Почта](annushkanikolaeva00@gmail.com)
+* Почта - dominatrxy@gmail.com
 * [Telegram](https://t.me/Make_me_wanna_die)
